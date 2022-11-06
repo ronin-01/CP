@@ -17,5 +17,5 @@ main() {
 	cout<<" a * b = "; cout<< pr;  cout<<"\n";
 	cout<<" a / b = "; cout<< di;  cout<<"\n";
 	
-	
+//note: calculating module of two float number on c is not possible and concludes errors	
 }
